@@ -11,7 +11,7 @@ Diberikan grid *N* x *N* dimana setiap sel memiliki warna (direpresentasikan seb
 3. Tidak ada dua atau lebih Queen yang menempati warna yang sama
 4. Tidak ada dua Queens yang bersebelahan, baik secara horizontal, vertikal, ataupun diagonal
 
-Program ini bertujuan untuk mencari satu solusi dari permainan Queens dengan menggunakan algoritma *brute force*. Program akan menampilakn satu solusi pertama yang ditemukan beserta total waktu pencarian dan total iterasi yang dilakukan,
+Program ini bertujuan untuk mencari satu solusi dari permainan Queens dengan menggunakan algoritma *brute force*. Program akan menampilkan satu solusi pertama yang ditemukan beserta total waktu pencarian dan total iterasi yang dilakukan.
 
 ---
 
@@ -20,16 +20,19 @@ Program ini bertujuan untuk mencari satu solusi dari permainan Queens dengan men
 Ada beberapa spesifikasi yang harus dipenuhi dalam membangun dan menjalankan program.
 
 1.**Python 3.x.**
+
 2.**Tkinter**
-3.Library **Pillow**
+
+3.**Pillow**
 
 Jika belum mengunduh Pillow, jalankan perintah berikut pada terminal
-**pip install Pillow**
+
+"**pip install Pillow**"
 
 ---
 
 ## Cara Mengkompilasi
-Untuk mengompilasi program cukup melakukan dua langkah berikut ini.
+Untuk mengkompilasi program cukup lakukan dua langkah berikut ini.
 1. Pergi ke folder yang terdapat file main.py (dalam repository ini terdapat pada folder src/), atau jalankan perintah berikut pada terminal "**cd src**"
 2. Jalankan perintah "**python main.py**" pada terminal
 3. Program sudah siap untuk dijalankan
@@ -43,8 +46,12 @@ Untuk menjalankan program, cukup lakukan dua langkah berikut.
 
 ---
 ## Author
-**Juan Oloando Simanungkalit, NIM 13524032
-Mahasiswa Teknik Informatika Institut Teknologi Bandung
-gmail: juanoloando.s@gmail.com**
+**Juan Oloando Simanungkalit**
+
+**NIM 13524032**
+
+**Mahasiswa Teknik Informatika Institut Teknologi Bandung**
+
+**gmail: juanoloando.s@gmail.com**
 
 ---
