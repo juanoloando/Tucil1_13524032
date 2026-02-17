@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+
+
+.vscode/
+.idea/
+*.swp
+
+
+.DS_Store
+Thumbs.db
